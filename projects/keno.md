@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/EasyKeno.png
 title: "Keno Game"
 date: 2024-09-08
 published: true
