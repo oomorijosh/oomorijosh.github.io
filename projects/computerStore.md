@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ComputerStore.png
+image: img/ComputerStoreSquare.png
 title: "Linked List Computer Store"
 date: 2023-04
 published: true
