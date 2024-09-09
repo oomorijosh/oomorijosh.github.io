@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/EasyKenoSquare.png
 title: "Keno Game"
-date: 2024-09-08
+date: 2023-04
 published: true
 labels:
   - Java
