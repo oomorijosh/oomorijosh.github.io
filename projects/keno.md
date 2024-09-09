@@ -19,4 +19,4 @@ This game reflects my current capabilities that I have in Java. It is a game whe
 
 
 
-Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/oomorijosh/Keno-Game)"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/oomorijosh/Keno-Game"><i class="large github icon "></i>oomorijosh/KenoGame</a>
