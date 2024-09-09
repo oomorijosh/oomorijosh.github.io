@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/oomorijosh.png",
     "email": "omorijos@hawaii.edu",
-    "phone": "808-382-7400",
     "website": "https://oomorijosh.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate 2026.  I hope to lesrn about data strucutres, video game design, and AI to determine my interests.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
