@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PolynomialFunctionSolution.png
+image: img/PolynomialFunctionSolutionSquare.png
 title: "Finding solution(s) to a polynomial project"
 date: 2021-11
 published: true
