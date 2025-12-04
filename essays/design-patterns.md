@@ -11,6 +11,8 @@ labels:
   - Software Engineering (ICS 311)
 ---
 
+<img class="img-fluid" src="../img/essay-design-patterns/lightbulb-types.jpg" alt="Illustration of lightbulb types.">
+
 ## You are asked in a coding interview... What is a design pattern. How do you answer this?
 
 Imagine you are at a store looking for lightbulbs. They come in all different shapes and sizes, all with different functions. While searching for the right ones for your room, you implicitly know that each item you look at uses electricity to brighten a room without having to analyze them. You can categorize all of these items as "lightbulbs".
