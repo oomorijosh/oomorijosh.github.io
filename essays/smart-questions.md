@@ -8,7 +8,7 @@ published: true
 labels:
   - Technical Essay
   - Stack Overflow
-  - Software Engineering (ICS 311)
+  - Software Engineering (ICS 314)
 ---
 
 <!-- A lot of md format is like Obsidian note taking -->

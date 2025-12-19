@@ -7,7 +7,7 @@ date: 2025-09-07
 published: true
 labels:
   - Technical Essay
-  - Software Engineering (ICS 311)
+  - Software Engineering (ICS 314)
 ---
 
 ## My Definition of a Software Engineer

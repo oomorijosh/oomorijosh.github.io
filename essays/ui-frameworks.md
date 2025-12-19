@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
   - HTML/CSS
   - Bootstrap
-  - Software Engineering (ICS 311)
+  - Software Engineering (ICS 314)
 ---
 
 ## A Canvas for Your Imagination! (Sort of...)

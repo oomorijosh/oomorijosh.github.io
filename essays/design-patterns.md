@@ -8,7 +8,6 @@ published: true
 labels:
   - Technical Essay
   - Design Patterns
-  - Software Engineering (ICS 311)
 ---
 
 <img class="img-fluid" src="../img/essay-design-patterns/lightbulb-types.jpg" alt="Illustration of lightbulb types.">

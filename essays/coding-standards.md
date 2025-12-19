@@ -8,7 +8,6 @@ published: true
 labels:
   - ES Lint
   - TypeScript
-  - ICS 311
   - Coding Standards
 ---
 

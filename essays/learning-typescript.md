@@ -8,7 +8,7 @@ published: true
 labels:
   - JavaScript
   - TypeScript
-  - Software Engineering (ICS 311)
+  - Software Engineering (ICS 314)
   - Athletic Software Engineering (WODs)
 ---
 
