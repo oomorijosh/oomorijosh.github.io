@@ -12,6 +12,7 @@ labels:
   - Databases
   - Software Engineering (ICS 314)
 ---
+<img class="img-fluid" src="../img/essay-software-reflection/software-engineering.png" alt="Software Engineering Image">
 
 Becoming a software engineer has taken on a whole new meaning for me after completing ICS 314 (Software Engineering at UH Mānoa). Throughout this course, I learned not only practical coding skills, such as JavaScript, TypeScript, HTML/CSS, Bootstrap, Next.js, PostgreSQL, GitHub, and Vercel, but also core software engineering concepts including Object-Oriented Programming (OOP) vs Functional Programming (FP), development environments, coding standards, and configuration management. All of these topics culminated in a final team-based project that required careful planning, collaboration, and execution.
 
