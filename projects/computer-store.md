@@ -4,7 +4,7 @@ type: project
 image: img/project-computer-store/ComputerStoreSquare.png
 title: "Linked List Computer Store"
 date: 2023-04
-published: true
+published: false
 labels:
   - Java
   - ICS 211
