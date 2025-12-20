@@ -14,7 +14,11 @@ labels:
 summary: "Wonkes Manoa is our final Software Engineering project: an online marketplace designed for UH Mānoa students to buy and sell campus-related items quickly and easily."
 ---
 
-<img class="img-fluid" src="../img/project-wonkes-manoa/WonkesHomepage.png">
+<img
+  style="width: 200px; height: 150px;" 
+  class="img-fluid"
+  src="../img/project-wonkes-manoa/WonkesHomepage.png"
+>
 
 
 ## The creation of the team...
@@ -36,8 +40,7 @@ To accomplish this, the project uses:
 
 Together, these technologies allowed us to build a modern, full-stack web application that meets the course requirements.
 
-> For more information on Software Engineering requirements, click [here](../essays/software-reflection.md)
-
+> For more information on Software Engineering requirements, click <a href="https://oomorijosh.github.io/essays/software-reflection.html">here</a>
 ---
 
 ## My Contributions to Wonkes
