@@ -7,6 +7,9 @@ date: 2025-12-17
 published: true
 labels:
   - Technical Essay
+  - TypeScript
+  - UI Frameworks
+  - Databases
   - Software Engineering (ICS 314)
 ---
 
@@ -25,3 +28,6 @@ Another major component of the course was learning about databases, specifically
 
 ## The Final Project...
 All of these concepts came together in the final project, where everything we learned was put to the test. TypeScript, HTML/CSS, and databases formed the foundation of a fully functional web application. Beyond the technical skills, the project emphasized teamwork and agile project management. Working as a team required clear communication, task coordination, and accountability to avoid duplicated effort and ensure a cohesive final product. Agile practices such as iterative development, issue tracking, and regular progress updates helped keep the project organized and adaptable. This experience reinforced that successful software engineering is just as much about collaboration and process as it is about writing code.
+
+ > For more information on the final project, click [here](../projects/wonkes-manoa.md)
+

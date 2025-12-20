@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
-published: true
+published: false
 labels:
   - Technical Essay
   - Effort Estimation

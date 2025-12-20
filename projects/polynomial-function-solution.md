@@ -13,7 +13,7 @@ summary: "A program that takes in inputs of coefficients of a polynomial functio
 
 <img class="img-fluid" src="../img/project-polynomial-function-solution/PolynomialFunctionSolution.png">
 
-This program was coded when I first started learning C. It is a rudementry program that finds the root(s) of a polynomial function. It was my first ever coding project and it shows. I feel if I were to code this now, it would be more clean and consise with more comments explaining steps and processes. After revisiting this code that I made when I first started learning, there has been a massive improvemnent in my overall capability to code.
+This program was coded when I first started learning C. It is a rudimentary program that finds the root(s) of a polynomial function. It was my first ever coding project and it shows. I feel if I were to code this now, it would be more clean and concise with more comments explaining steps and processes. After revisiting this code that I made when I first started learning, there has been a massive improvement in my overall capability to code.
 
 The code is listed below:
 

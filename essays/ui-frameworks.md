@@ -8,8 +8,6 @@ published: true
 labels:
   - Technical Essay
   - UI Frameworks
-  - HTML/CSS
-  - Bootstrap
   - Software Engineering (ICS 314)
 ---
 

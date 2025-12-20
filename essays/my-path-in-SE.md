@@ -4,7 +4,7 @@ type: essay
 title: "Exploring My Path in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-07
-published: true
+published: false
 labels:
   - Technical Essay
   - Software Engineering (ICS 314)

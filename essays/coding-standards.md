@@ -4,7 +4,7 @@ type: essay
 title: "Back to Basics: Language Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-24
-published: true
+published: false
 labels:
   - ES Lint
   - TypeScript
