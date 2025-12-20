@@ -12,7 +12,7 @@ labels:
   - Athletic Software Engineering (WODs)
 ---
 
-<img class="img-fluid" src="../img/essay-learning-typescript/learning-typescript.png" alt="Stress image">
+<img class="img-fluid" src="../img/essay-learning-typescript/learning-typescript.jpg" alt="Stress image">
 
 ## The setting…
   Today is Monday. It is the first day of school and you have prepared extensively for all of the classes you will take. The first day, you are hit with homework assignments due the next day and every subsequent day after. You are prepared, however, since you wrote down all of the due dates before hand. Despite this, things go by in a flash; by Friday, you must have a decent fundamental of JavaScript and TypeScript for your software engineering class. By the weekend, you are already doing coding challenge practices in a language you just learned for a in-person timed test you will do on the following Wednesday (more on this later). Considering you have a part-time job to balance as well; you know that you have to lock in. And lock in I did. Thus, what the first week of one of the hardest CS courses looks like.
