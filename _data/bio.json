@@ -5,11 +5,11 @@
     "picture": "https://github.com/oomorijosh.png",
     "email": "omorijos@hawaii.edu",
     "website": "https://oomorijosh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate 2026.  I hope to learn about data strucutres, video game design, and AI to determine my interests.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate 2026.  I hope to learn about data structures, video game design, and AI to determine my interests.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "oomorijosh", "url": "http://github.com/oomorijosh" },
-      { "network": "linkedin", "username": "oomorijosh", "url": "http://linkedin.com/in/joshua-omori-5t921/" },
+      { "network": "linkedin", "username": "oomorijosh", "url": "http://linkedin.com/in/joshua-omori-5t921/" }
     ]
   },
   "interests": [
@@ -20,8 +20,8 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
-    },
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "HTML/CSS", "Bootstrap", "React", "Next.js", "PostgreSQL", "Vercel", "Python"]
+    }
   ],
   "education": [
     {
@@ -43,9 +43,9 @@
       "endDate": "Present",
       "summary": "I teach ukulele at this studio as a part time employee. I have worked with adults and students as young as 4 to teach them ukulele.",
       "highlights": [
-        "Teaching, Reliablility, Communication, Punctuation"
+        "Teaching, Reliability, Communication, Punctuation"
       ]
-    },
+    }
   ],
 
   "references": [

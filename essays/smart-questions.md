@@ -83,7 +83,7 @@ This question is considered “dumb” because:
 
 <br />
 
-#### 2. removing multiple occurences of alphabets in a word
+#### 2. removing multiple occurrences of alphabets in a word
 
 > *“I want to remove multiple occurrences of a character using a single array. Say the word entered is "APPLE" then the output should be "APLE". Similarly for "Soccer" it should be "Socer" <br /><br /> Please help."*
 
