@@ -37,6 +37,7 @@ To accomplish this, the project uses:
 Together, these technologies allowed us to build a modern, full-stack web application that meets the course requirements.
 
 > For more information on Software Engineering requirements, click <a href="https://oomorijosh.github.io/essays/software-reflection.html">here</a>
+
 ---
 
 ## My Contributions to Wonkes
