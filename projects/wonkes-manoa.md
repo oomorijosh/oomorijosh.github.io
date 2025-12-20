@@ -15,7 +15,6 @@ summary: "Wonkes Manoa is our final Software Engineering project: an online mark
 ---
 
 <img
-  style="width: 200px; height: 150px;" 
   class="img-fluid"
   src="../img/project-wonkes-manoa/WonkesHomepage.png"
 >
